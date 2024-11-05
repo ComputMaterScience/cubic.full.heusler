@@ -1,4 +1,4 @@
-# Database of Cubic Full Heusler By Computational Materials Science Group
+# Database of Cubic Full-Heusler By Computational Materials Science Group
 
 The database is based on two publications:
 
